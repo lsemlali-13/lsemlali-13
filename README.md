@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 I'm excited to share my projects with you and collaborate with other developers 🤝. As a student at 1337 @ One 42 Network Campuses, I am constantly learning and growing as a developer. Here's a little bit more about me and what you can expect to find on my profile:
 
