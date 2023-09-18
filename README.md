@@ -8,5 +8,5 @@ On my profile, you'll find a variety of projects that showcase my skills and int
 I am always looking for new opportunities to learn and expand my skillset. If you have any suggestions for projects or collaborations, I'm open to hearing them! 💡
 Thank you for visiting my profile 🙏. I hope you find something here that interests you 🤗.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?lsemlali-13=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?lsemlali-13=jasongaylord&langs_count=5&theme=tokyonight)]()
+!My GitHub Stats
+!My GitHub Language Stats
