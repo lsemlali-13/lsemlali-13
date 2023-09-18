@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/lahbib-semlali-035819154/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -36,7 +36,6 @@ Thank you for visiting my profile 🙏. I hope you find something here that inte
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lsemlali-13&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lsemlali-13&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![lsemlali's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lsemlali-13&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsemlali-13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
